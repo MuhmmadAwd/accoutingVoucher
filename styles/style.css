@@ -1,0 +1,18 @@
+.header-form {
+  border: 1px solid;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.input-group-text {
+  background-color: #fff;
+  border: none;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+.summery {
+  display: flex;
+  justify-content: space-evenly;
+}
